@@ -3,7 +3,7 @@ function App() {
   const apple = 1
 
   return ( 
-  <div>
+  <div className="center_div">
     <h1>유머튜브</h1>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lwT20wOI2Ew?si=BdjO-bPmuGR3gbpL&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/btYhFMDdw_Q?si=Amg8QDqy9dwYDX3U&amp;start=26" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
